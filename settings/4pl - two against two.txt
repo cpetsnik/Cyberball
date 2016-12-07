@@ -1,0 +1,10 @@
+players, 4
+total throws, 30
+schedule, all include 4.txt
+start page, start.htm
+name1, Trevor, trevor.jpg
+name2, Kip, kip.jpg
+name3, Cassie, cassie.jpg
+name4, Blair, blair.jpg
+game speed, 2, 3
+spacing, 2

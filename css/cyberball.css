@@ -1,0 +1,181 @@
+﻿html
+{
+    width: 100%;
+}
+
+body
+{
+    text-align: center;
+    width: 100%;
+}
+
+#container
+{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 640px;
+}
+
+#divConnectingBox
+{
+    background-color: #0099FF;
+    height: 24px;
+    width: 30px;
+}
+
+#canvas
+{
+    background-color: #ffffff;
+}
+
+#chatWindow
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px;
+    text-align: center;
+    display: none;
+    position: relative;
+    top: -200px;
+}
+
+#chatWindow textarea
+{
+    width: 98%;
+}
+
+#chatWindow .chatbox
+{
+    width: 75%;
+}
+
+#chatWindow a
+{
+    text-decoration: none;
+    width: 83px;
+    height: 22px;
+    background-image: url(../images/Send.png);
+    display: inline-block;
+}
+
+#textAndWindows
+{
+    text-align: center;
+    width: 640px;
+    display: none;
+    position: absolute;
+    top: 10px;
+}
+
+#textAndWindows td
+{
+    margin: 0;
+    padding: 0;
+}
+
+#textAndWindows td div
+{
+    width: 130px;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+#textAndWindows td span
+{
+    cursor: pointer;
+}
+
+#textAndWindows td img
+{
+    cursor: pointer;
+}
+
+#textAndWindows img
+{
+    border-width: 1px;
+    border-style: solid;
+    border: none;
+}
+
+#instructions
+{
+}
+#thankyou
+{
+    color: #000080;
+    display: none;
+}
+#preloadImages
+{
+    /**/
+    display: none;
+}
+.photo
+{
+    width: 128px;
+    height: 128px;
+}
+
+.smallphoto
+{
+    width: 80px;
+    height: 80px;
+}
+
+.cartoon-1
+{
+    border-width: 2px;
+    border-style: none;
+    border-color: black;
+    margin-top: 57px;
+}
+
+.smallcartoon-3
+{
+    border-width: 2px;
+    border-style: none;
+    border-color: black;
+    margin-top: 2px;
+}
+.smallcartoon-1
+{
+    border-width: 2px;
+    border-style: none;
+    border-color: black;
+    margin-top: 15px;
+}
+
+.cartoon-3
+{
+    border-width: 2px;
+    border-style: none;
+    border-color: black;
+    margin-top: 36px;
+}
+
+.smallcartoon
+{
+    margin: 0;
+}
+
+.fourpl
+{
+    margin: 0;
+    padding: 0;
+}
+
+.name-1
+{
+    left: 100px;
+    position: relative;
+    text-align: right;
+    top: 10px;
+}
+.name-3
+{
+    left: -100px;
+    position: relative;
+    top: 10px;
+}

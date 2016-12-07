@@ -1,0 +1,10 @@
+players, 4
+total throws, 180
+schedule, iupu 4.txt
+start page, start.htm
+name1, A, fb1.jpg
+name2, none, none
+name3, B, fc1.jpg
+name4, C, fa2.jpg
+game speed, 1, 3
+spacing, 2
