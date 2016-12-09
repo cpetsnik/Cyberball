@@ -114,13 +114,13 @@ body
 }
 .photo
 {
-    width: 96px;
+    width: 128px;
     height: 128px;
 }
 
 .smallphoto
 {
-    width: 80px;
+    width: 60px;
     height: 80px;
 }
 
