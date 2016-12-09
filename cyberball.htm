@@ -918,12 +918,9 @@
         }
 
         function SaveLog() {
-            if (URLVars[USERID] && $.trim(URLVars[USERID]) != "") {
-                $.post("saveLog.php", { userId: URLVars[USERID], log: _log }, function (data) {
+            
                     ShowThankYou();
-                });
-            }
-            //
+           
         }
 
         function ShowThankYou() {
