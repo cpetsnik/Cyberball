@@ -1,6 +1,6 @@
 players, 3
 total throws, 30
-schedule, ostracize subject 3.txt
+schedule, Rostracize subject 3.txt
 start page, start.htm
 name1, Trevor, trevor.jpg
 name2, Kip, kip.jpg
